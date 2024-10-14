@@ -1,5 +1,8 @@
 # 💫 About Me:
+
 I'm currently working at Kurago.<br>Cibersecurity and development lover.<br>Software coding passionist.
+
+[![Try Hack Me Badge](https://tryhackme-badges.s3.amazonaws.com/0x10z.png)](https://tryhackme.com/r/p/0x10z)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-ocio-zuazo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0x10z) 
@@ -14,10 +17,8 @@ I'm currently working at Kurago.<br>Cibersecurity and development lover.<br>Soft
 > ― Rick Cook, The Wizardry Compiled
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=0x10-z&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
