@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently working at Kurago.<br>Cibersecurity and development lover.<br>Software coding passionist.
+I'm currently working at Bystronic.<br>Cibersecurity and development lover.<br>Software coding passionist.
 
 [![Try Hack Me Badge](https://tryhackme-badges.s3.amazonaws.com/0x10z.png)](https://tryhackme.com/r/p/0x10z)
 
